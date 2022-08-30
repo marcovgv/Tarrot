@@ -55,7 +55,7 @@ background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 
 }
 @font-face {
   font-family:esoterica;
-  src: url(/fuentes/Three\ Duchess.otf);
+ src: url(/fuentes/Duchess.otf);
 }
 .logo-letra {
   font-family:esoterica;
